@@ -1,0 +1,2 @@
+beginner_tutorials:learning_joy:minilab_navigation:minilab_simulation:planification
+-DCATKIN_DEVEL_PREFIX=/home/xanthor/Programmes/ROS/devel -DCMAKE_INSTALL_PREFIX=/home/xanthor/Programmes/ROS/install -G Unix Makefiles

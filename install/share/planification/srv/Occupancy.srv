@@ -1,0 +1,4 @@
+geometry_msgs/Point pose
+nav_msgs/OccupancyGrid occupancy
+---
+nav_msgs/Path path

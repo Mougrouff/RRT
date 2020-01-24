@@ -1,0 +1,8 @@
+prefix=/home/xanthor/Programmes/ROS/install
+
+Name: planification
+Description: Description of planification
+Version: 0.0.0
+Cflags: -I/home/xanthor/Programmes/ROS/install/include
+Libs: -L/home/xanthor/Programmes/ROS/install/lib 
+Requires: message_runtime geometry_msgs
