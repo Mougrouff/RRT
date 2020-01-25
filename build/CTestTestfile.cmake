@@ -7,6 +7,6 @@
 subdirs("gtest")
 subdirs("minilab_simulation")
 subdirs("beginner_tutorials")
-subdirs("planification")
+subdirs("rrt")
 subdirs("minilab_navigation")
 subdirs("learning_joy")

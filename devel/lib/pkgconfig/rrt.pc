@@ -1,0 +1,8 @@
+prefix=/home/xanthor/Programmes/ROS/devel
+
+Name: rrt
+Description: Description of rrt
+Version: 0.0.0
+Cflags: -I/home/xanthor/Programmes/ROS/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime geometry_msgs

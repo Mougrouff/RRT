@@ -133,7 +133,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/xanthor/Programmes/ROS/build/gtest/cmake_install.cmake")
   include("/home/xanthor/Programmes/ROS/build/minilab_simulation/cmake_install.cmake")
   include("/home/xanthor/Programmes/ROS/build/beginner_tutorials/cmake_install.cmake")
-  include("/home/xanthor/Programmes/ROS/build/planification/cmake_install.cmake")
+  include("/home/xanthor/Programmes/ROS/build/rrt/cmake_install.cmake")
   include("/home/xanthor/Programmes/ROS/build/minilab_navigation/cmake_install.cmake")
   include("/home/xanthor/Programmes/ROS/build/learning_joy/cmake_install.cmake")
 
