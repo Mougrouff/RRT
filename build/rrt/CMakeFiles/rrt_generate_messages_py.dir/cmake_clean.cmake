@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/rrt_generate_messages_py"
-  "/home/xanthor/Programmes/ROS/devel/lib/python2.7/dist-packages/rrt/srv/_Occupancy.py"
+  "/home/xanthor/Programmes/ROS/devel/lib/python2.7/dist-packages/rrt/srv/_Planification.py"
   "/home/xanthor/Programmes/ROS/devel/lib/python2.7/dist-packages/rrt/srv/__init__.py"
 )
 

@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/home/xanthor/Programmes/ROS/devel/include/rrt/Occupancy.h
+/home/xanthor/Programmes/ROS/devel/include/rrt/Planification.h
 ros/service_traits.h
 -
-rrt/OccupancyRequest.h
+rrt/PlanificationRequest.h
 -
-rrt/OccupancyResponse.h
+rrt/PlanificationResponse.h
 -
 
-/home/xanthor/Programmes/ROS/devel/include/rrt/OccupancyRequest.h
+/home/xanthor/Programmes/ROS/devel/include/rrt/PlanificationRequest.h
 string
 -
 vector
@@ -29,12 +29,10 @@ ros/builtin_message_traits.h
 -
 ros/message_operations.h
 -
-geometry_msgs/Point.h
--
 nav_msgs/OccupancyGrid.h
 -
 
-/home/xanthor/Programmes/ROS/devel/include/rrt/OccupancyResponse.h
+/home/xanthor/Programmes/ROS/devel/include/rrt/PlanificationResponse.h
 string
 -
 vector
@@ -55,8 +53,8 @@ nav_msgs/Path.h
 /home/xanthor/Programmes/ROS/src/rrt/src/rrt_client.cpp
 ros/ros.h
 -
-rrt/Occupancy.h
-/home/xanthor/Programmes/ROS/src/rrt/src/rrt/Occupancy.h
+rrt/Planification.h
+/home/xanthor/Programmes/ROS/src/rrt/src/rrt/Planification.h
 cstdlib
 -
 nav_msgs/GetMap.h

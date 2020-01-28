@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/rrt_generate_messages_lisp"
-  "/home/xanthor/Programmes/ROS/devel/share/common-lisp/ros/rrt/srv/Occupancy.lisp"
+  "/home/xanthor/Programmes/ROS/devel/share/common-lisp/ros/rrt/srv/Planification.lisp"
 )
 
 # Per-language clean rules from dependency scanning.

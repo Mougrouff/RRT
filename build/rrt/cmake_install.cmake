@@ -38,7 +38,7 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/rrt/srv" TYPE FILE FILES "/home/xanthor/Programmes/ROS/src/rrt/srv/Occupancy.srv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/rrt/srv" TYPE FILE FILES "/home/xanthor/Programmes/ROS/src/rrt/srv/Planification.srv")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)

@@ -1,8 +1,8 @@
 
 "use strict";
 
-let Occupancy = require('./Occupancy.js')
+let Planification = require('./Planification.js')
 
 module.exports = {
-  Occupancy: Occupancy,
+  Planification: Planification,
 };

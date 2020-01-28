@@ -1,2 +1,2 @@
 set(rrt_MESSAGE_FILES "")
-set(rrt_SERVICE_FILES "srv/Occupancy.srv")
+set(rrt_SERVICE_FILES "srv/Planification.srv")

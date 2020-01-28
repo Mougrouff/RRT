@@ -1,7 +1,7 @@
 # generated from genmsg/cmake/pkg-genmsg.context.in
 
 messages_str = ""
-services_str = "/home/xanthor/Programmes/ROS/src/rrt/srv/Occupancy.srv"
+services_str = "/home/xanthor/Programmes/ROS/src/rrt/srv/Planification.srv"
 pkg_name = "rrt"
 dependencies_str = "nav_msgs;geometry_msgs"
 langs = "gencpp;geneus;genlisp;gennodejs;genpy"

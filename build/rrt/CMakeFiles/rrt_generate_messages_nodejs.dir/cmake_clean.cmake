@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/rrt_generate_messages_nodejs"
-  "/home/xanthor/Programmes/ROS/devel/share/gennodejs/ros/rrt/srv/Occupancy.js"
+  "/home/xanthor/Programmes/ROS/devel/share/gennodejs/ros/rrt/srv/Planification.js"
 )
 
 # Per-language clean rules from dependency scanning.
